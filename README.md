@@ -1,1 +1,1 @@
-# csce625_blog_post
+# csce625_ai_blog
